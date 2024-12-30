@@ -1,0 +1,5 @@
+Booking ID	Customer Name	Booking Date	Number of Travelers	Amount Paid	Payment Method
+1	Ali	15/11/2024	2 Adults	"RM1,600.00"	credit card
+2	Siti	20/11/2024	1 Adult	RM800.00	bank transfer
+3	Ahmad	22/11/2024	"4 Adults, 2 Children"	"RM4,200.00"	cash upon arrival
+4	Fatimah	25/11/2024	2 Adults	"RM1,600.00"	bank transfer
